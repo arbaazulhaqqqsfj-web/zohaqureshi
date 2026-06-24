@@ -5,7 +5,9 @@ A responsive athlete portfolio created for Indian junior tennis player Zoha Qure
 ## Live Website
 
 https://zoha-qureshi.vercel.app/
+## Website Preview
 
+![Zoha Qureshi Tennis Website](website-preview.png)
 ## Features
 
 - Responsive desktop and mobile design
